@@ -52,7 +52,7 @@ export const projects = [
     description: "Portfolio v1 using React.js, Next.js y Styled-Components.",
     image: "/images/PortfolioV2.jpg",
     tags: ["React", "JavaScript", "Next", "Styled-Components"],
-    source: "https://my-portfolio-marcoss94.vercel.app/",
+    source: "https://portfolio-v2-marcoss94.vercel.app/",
     visit: "https://github.com/marcoss94/portfolio-next",
     id: 5,
   },
