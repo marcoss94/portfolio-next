@@ -10,6 +10,16 @@ export const projects = [
     id: 0,
   },
   {
+    title: "Cyber-Monday-app",
+    description:
+      "Simple app with autocomplete search. Using React.js, Next.js, Tailwind.",
+    image: "/images/Cyber-monday.png",
+    tags: ["React", "JavaScript", "Next", "Tailwind"],
+    source: "https://autocomplete-next-marcoss94.vercel.app",
+    visit: "https://github.com/marcoss94/autocomplete-next",
+    id: 1,
+  },
+  {
     title: "Movie App",
     description:
       "Small app to manage movies using React.js, Next.js and Mongo DB.",
@@ -17,7 +27,7 @@ export const projects = [
     tags: ["Next", "TypeScript", "React", "Mongo DB"],
     // source: "https://google.com",
     visit: "https://github.com/marcoss94/movie-next",
-    id: 1,
+    id: 2,
   },
   {
     title: "Amazon Clone",
@@ -26,7 +36,7 @@ export const projects = [
     tags: ["React", "JavaScript", "Firebase"],
     // source: "https://google.com",
     visit: "https://github.com/marcoss94/AmazonClone",
-    id: 2,
+    id: 3,
   },
   {
     title: "Google Cluster Marker",
@@ -36,7 +46,7 @@ export const projects = [
     tags: ["React", "JavaScript", "Google Maps", "Redux"],
     // source: "https://google.com",
     visit: "https://github.com/marcoss94/GoogleMaps-ClusterMarker-React-",
-    id: 3,
+    id: 4,
   },
   {
     title: "Portfolio v1",
@@ -45,7 +55,7 @@ export const projects = [
     tags: ["React", "TypeScript", "Next", "Bootswach"],
     source: "https://my-portfolio-marcoss94.vercel.app/",
     visit: "https://github.com/marcoss94/portafolio_next",
-    id: 4,
+    id: 5,
   },
   {
     title: "Portfolio v2",
@@ -54,7 +64,7 @@ export const projects = [
     tags: ["React", "JavaScript", "Next", "Styled-Components"],
     source: "https://portfolio-v2-marcoss94.vercel.app/",
     visit: "https://github.com/marcoss94/portfolio-next",
-    id: 5,
+    id: 6,
   },
 ];
 
